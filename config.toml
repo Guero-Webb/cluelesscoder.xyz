@@ -1,6 +1,6 @@
-baseurl = "https://example.org/"
+baseurl = "https://cluelesscoder.xyz/"
 languageCode = "en-us"
-title = "My Awesome Static Site"
+title = "Clueless Coder"
 # Define how many pages appear per site
 paginate = 10
 # Enable comments powered by Disqus by entering your disqus shortname
@@ -11,13 +11,13 @@ theme = "hugo-minimalist-theme"
 
 
 [params]
-    site_author = "John Doe"
-    site_description = "The awesome blog of John Doe."
+    site_author = "Clueless"
+    site_description = "The awesome blog of the Clueless Coder."
     location = "Earth"
     # Link custom assets relative to /static
     avatar = "img/male_blue.gif"
     header_background = "img/boy-using-computer.jpg"
-    header_title = "My Awesome Static Site"
+    header_title = "Clueless Coder"
     copyright = "Powered by [Hugo](http://gohugo.io)."
     custom_css = []
     custom_js  = []
